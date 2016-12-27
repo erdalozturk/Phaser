@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\Visual Studio 2015\Slalom\Slalom\bin\Slalom.dll.config
+C:\Users\PC\Documents\Visual Studio 2015\Slalom\Slalom\bin\Slalom.dll
+C:\Users\PC\Documents\Visual Studio 2015\Slalom\Slalom\bin\Slalom.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Slalom\Slalom\obj\Debug\Slalom.dll
+C:\Users\PC\Documents\Visual Studio 2015\Slalom\Slalom\obj\Debug\Slalom.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Slalom\Slalom\obj\Debug\Slalom.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\bin\Slalom.dll.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\bin\Slalom.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\bin\Slalom.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\obj\Debug\Slalom.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\obj\Debug\Slalom.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\obj\Debug\Slalom.csprojResolveAssemblyReference.cache

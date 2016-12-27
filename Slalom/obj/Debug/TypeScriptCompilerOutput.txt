@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js.map
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js.map
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js.map
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Slalom\Slalom\dist\js\bundle.js.map
